@@ -18,7 +18,7 @@
 <p>Deployed using Netlify</p>
 
 
-Try it Here: 
+Try it Here: https://drumsimulator.netlify.app/
 
 
 
