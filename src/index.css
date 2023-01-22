@@ -5,9 +5,39 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: 
+  #B6EADA;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+#display {
+  color: black;
+  font-size: 4rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+#line{
+  font-size: 1.5rem;
+}
+
+.Heading {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 5rem;
+  color: #301E67;
+  font-family: 'Lilita One', cursive;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 6rem;
+  font-size: 1rem;
+  color: grey;
+  font-family: 'Montez', cursive;
 }
