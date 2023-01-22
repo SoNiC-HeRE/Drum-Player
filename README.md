@@ -1,3 +1,29 @@
+
+<h1>Drum Player</h1>
+<p>Use it to:</p>
+<ul>
+<li>Play Different Sounds</li>
+<li>Mix N Match</li>
+<li>Have Fun/li>
+</ul>
+
+<h1>Built Using:</h1>
+<ul>
+<li>HTML5</li>
+<li>JavaScript</li>
+<li>CSS3</li>
+<li>ReactJS</li>
+</ul>
+
+<p>Deployed using Netlify</p>
+
+
+Try it Here: 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
